@@ -1,1 +1,2 @@
 # CleanRice
+# Clean-Rice-Hyprland
