@@ -11,3 +11,4 @@
 1. Клонувати репозиторій:
    ```bash
    git clone https://github.com/r3nhick/Clean-Rice-Hyprland.git
+# Clean-Rice-Hyprland
